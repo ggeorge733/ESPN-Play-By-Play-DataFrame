@@ -15,4 +15,4 @@ DataFrame columns:\
 <b>Assist</b>: The player credited with an assist\
 <b>Rebound</b>: The player credited with the rebound (also can be credited to either team)\
 <b>Steal</b>: The player credited with the steal\
-<b>Block</b>: The player credited with the block\
+<b>Block</b>: The player credited with the block
