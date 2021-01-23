@@ -5,9 +5,9 @@
 The Play-by-Play data for any game can be extracted by replacing the URL in the "site" variable. 
 
 
-<b>Time</b>: The timestamp when the event occurred
-<b>Score</b>: The score during the event. The away team is first, followed by the home team
-<b>Detail</b>: A description of a specific play/event during the game
+<b>Time</b>: The timestamp when the event occurred\
+<b>Score</b>: The score during the event. The away team is first, followed by the home team\
+<b>Detail</b>: A description of a specific play/event during the game\
 ### Away: The away team score
 ### Home: The home team score
 ### Points: The amount of points scored during the play
