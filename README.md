@@ -4,7 +4,7 @@ On the ESPN website, there is an option to view the play-by-play information for
 
 The Play-By-Play data for any game can be extracted by replacing the URL in the "site" variable. 
 
-DataFrame columns:\
+DataFrame columns:
 
 <b>Time</b>: The timestamp when the event occurred\
 <b>Score</b>: The score during the event. The away team is first, followed by the home team\
